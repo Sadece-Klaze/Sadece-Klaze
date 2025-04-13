@@ -23,9 +23,9 @@
 
 ### 📊 GitHub İstatistiklerim:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadece-Anistyle&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadece-Klaze&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadece-Anistyle&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadece-Klaze&theme=tokyonight" />
 </p>
 
 ---
